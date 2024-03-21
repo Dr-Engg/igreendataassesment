@@ -1,0 +1,15 @@
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\Users\PRABU\MyConsoleApp\igreendataassesment\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
